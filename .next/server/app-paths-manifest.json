@@ -1,0 +1,8 @@
+{
+  "/page": "app/page.js",
+  "/(docs)/components/page": "app/(docs)/components/page.js",
+  "/(docs)/configuration/page": "app/(docs)/configuration/page.js",
+  "/(docs)/getting-started/page": "app/(docs)/getting-started/page.js",
+  "/(docs)/faq/page": "app/(docs)/faq/page.js",
+  "/(docs)/theming/page": "app/(docs)/theming/page.js"
+}
